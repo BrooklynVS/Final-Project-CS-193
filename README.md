@@ -20,8 +20,8 @@ I personally read a lot of books, and it can take a lot of time to search up lot
 ## Setup
 
 ```bash
-git clone https://github.com/you/your-project
-cd your-project
+git clone https://github.com/you/Final-Project-CS-193
+cd Final-Project-CS-193
 ```
 
 ## Usage
