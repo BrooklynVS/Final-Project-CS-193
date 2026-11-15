@@ -22,6 +22,7 @@ I personally read a lot of books, and it can take a lot of time to search up lot
 ```bash
 git clone https://github.com/you/Final-Project-CS-193
 cd Final-Project-CS-193
+curl -L -o lib/gson.jar https://repo1.maven.org/maven2/com/google/code/gson/gson/2.14.0/gson-2.14.0.jar
 ```
 
 ## Usage
